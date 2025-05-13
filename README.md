@@ -69,9 +69,9 @@ The dataset was cleaned, transformed, and modeled using Power BI's **Power Query
 
 | File Name               | Description                                  |
 |-------------------------|----------------------------------------------|
-| `Sales_Overview.pbix`  | Power BI report file                         |
+| `Sales_Overview.pbix`   | Power BI report file                         |
 | `README.md`             | Project documentation                        |
-| `screenshots/`          | Folder containing dashboard screenshots      |
+| `Dashboard_images/`     | Folder containing dashboard images           |
 
 ---
 
