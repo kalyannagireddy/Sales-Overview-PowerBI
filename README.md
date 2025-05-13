@@ -78,9 +78,8 @@ The dataset was cleaned, transformed, and modeled using Power BI's **Power Query
 ## 👤 Author
 
 **NAGIREDDY KALYAN RAM**  
-📍 Aspiring Data Analyst | Power BI Enthusiast  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/kalyan-nagireddy-284b64275)  
-📧 kalyannagireddy9@gmail.com
+📍 Aspiring Data Analyst | Power BI Enthusiast   
+📧 kalyannagireddy20@gmail.com
 
 ---
 
